@@ -1,0 +1,149 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+/* header */
+header {
+    width: 980px;
+    height: 48px;
+    margin: 12px 80px;
+}
+
+#logo {
+    width: 147px;
+    height: 21px;
+    padding: 13.49px;
+    box-sizing: content-box;
+    vertical-align: middle;
+}
+
+#navLinkscontainer {
+    display: inline-block;
+    text-align: center;
+    max-width: 530px;
+    width: 100%;
+    padding: 13px 0;
+}
+
+#navLinks {
+    width: 343px;
+    margin: 0 auto;
+}
+
+#navItemone {
+    padding-right: 20px;
+    color: #323232;
+    font-size: 18px;
+    font-weight: 400;
+    text-decoration: none;
+}
+
+#navItemtwo {
+    padding-right: 20px;
+    color: #323232;
+    font-size: 18px;
+    font-weight: 400;
+    text-decoration: none;
+}
+
+#navItemthree {
+    padding-right: 20px;
+    color: #323232;
+    font-size: 18px;
+    font-weight: 400;
+    text-decoration: none;
+}
+
+#navItemfour {
+    color: #323232;
+    font-size: 18px;
+    font-weight: 400;
+    text-decoration: none;
+}
+
+#contactBt{
+    display: inline-block;
+    text-align: right;
+    margin: 7.5px 0;
+}
+
+#contactButton {
+    padding: 8px 16px;
+    border-radius: 8px;
+    border: 1px solid #AC00FF;
+    background: #E9D7FE;
+    color: #AC00FF;
+    font-size: 14px;
+    font-weight: 500;
+    width: 105px;
+    height: 33px;
+}
+
+/* main */
+
+#container{
+    max-width: 841px;
+    width: 100%;
+    margin-top: 64px;
+    margin-left: 214px;
+}
+
+#containerH{
+    width: 720px;
+    color: #323232;
+    font-size: 64px;
+    text-align: left;
+    font-weight: 400;
+}
+
+#containerP{
+    color: #323232;
+    font-size: 24px;
+    font-weight: 400;
+    margin: 24px 0;
+    width: 100%;
+}
+
+#buttons{
+    max-width: 422px;
+    width: 100%;
+}
+
+#joinButton{
+    display: inline-block;
+    border-radius: 8px;
+    background: #5C3BAE;
+    padding: 16px 24px;
+    color: #FFF;
+    font-size: 18px;
+    font-weight: 500;
+    width: 204px;
+    margin-right: 24px;
+    vertical-align: middle;
+}
+
+#secondButton{
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#buttonImg{
+    width: 32px;
+    height: 32px;
+    vertical-align: middle;
+    margin-right: 12px;
+}
+
+#buttonA{
+    color: #4D3491;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+#cards{
+    display: block;
+    margin-left: auto;
+    width: 1311px;
+    height: 761px;
+}
